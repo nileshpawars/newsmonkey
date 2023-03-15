@@ -1,0 +1,13 @@
+.badge {
+  position: absolute;
+  right: 0;
+  top:-10px;
+}
+
+.container-my-5{
+  margin-top: 5%;
+}
+
+.newsItems {
+  grid-row-gap: 2rem;
+}
